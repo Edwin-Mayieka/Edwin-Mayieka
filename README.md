@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Edwin Mayieka a passionate junior Software Developer 🚀 from Kenya.<br><br><br>📌I’m currently working on JobHunter-an app for keeping tabs on job applications 😉 ;<br>💡 I’m currently learning React and React Native ;<br>📧Reach me via: edwineduko@gmail.com ;<br>📝 Resume
+I'm Edwin Mayieka a passionate Software Developer 🚀 from Kenya.<br><br><br>📌I’m currently working on JobHunter-an app for keeping tabs on job applications 😉 ;<br>💡 I’m currently learning React and React Native ;<br>📧Reach me via: edwineduko@gmail.com ;<br>📝 Resume
 
 
 # 💻 Tech Stack:
